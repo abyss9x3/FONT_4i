@@ -1,6 +1,6 @@
 # About Font_4i?
 
-This App uses Azure Face API to help people select the correct font size and identify whether the user requires glasses
+This App uses Azure Face API to help people select the correct font size and identify whether the user requires glasses.
 
 ## Functionalities
 
